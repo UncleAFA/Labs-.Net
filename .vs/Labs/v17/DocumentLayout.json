@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\BMSTU\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\C#\\Labs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22E72FBA-64C7-4E3B-B520-4E3A218D443E}|Lab3\\Lab3.csproj|d:\\bmstu\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\c#\\labs\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22E72FBA-64C7-4E3B-B520-4E3A218D443E}|Lab3\\Lab3.csproj|solutionrelative:lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{194FF63F-7A29-44B1-BACD-A53E5851BDAF}|Lab4\\Lab4.csproj|d:\\bmstu\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\c#\\labs\\lab4\\addtaskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{194FF63F-7A29-44B1-BACD-A53E5851BDAF}|Lab4\\Lab4.csproj|solutionrelative:lab4\\addtaskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F54B484-C2FD-4E5C-B533-02747ABB60BE}|Lab1\\Lab1.csproj|d:\\bmstu\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\c#\\labs\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F54B484-C2FD-4E5C-B533-02747ABB60BE}|Lab1\\Lab1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{194FF63F-7A29-44B1-BACD-A53E5851BDAF}|Lab4\\Lab4.csproj|d:\\bmstu\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\c#\\labs\\lab4\\changestatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{194FF63F-7A29-44B1-BACD-A53E5851BDAF}|Lab4\\Lab4.csproj|solutionrelative:lab4\\changestatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194FF63F-7A29-44B1-BACD-A53E5851BDAF}|Lab4\\Lab4.csproj|d:\\bmstu\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\c#\\labs\\lab4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{194FF63F-7A29-44B1-BACD-A53E5851BDAF}|Lab4\\Lab4.csproj|solutionrelative:lab4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,25 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 17,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\BMSTU\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\C#\\Labs\\Lab3\\Program.cs",
-              "RelativeDocumentMoniker": "Lab3\\Program.cs",
-              "ToolTip": "D:\\BMSTU\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\C#\\Labs\\Lab3\\Program.cs",
-              "RelativeToolTip": "Lab3\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAMYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T10:40:01.883Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -99,16 +86,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\BMSTU\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\C#\\Labs\\Lab1\\Program.cs",
-              "RelativeDocumentMoniker": "Lab1\\Program.cs",
-              "ToolTip": "D:\\BMSTU\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\C#\\Labs\\Lab1\\Program.cs",
-              "RelativeToolTip": "Lab1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\BMSTU\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\C#\\Labs\\Lab4\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab4\\Form1.cs",
+              "ToolTip": "D:\\BMSTU\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\C#\\Labs\\Lab4\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Lab4\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T09:31:36.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T09:45:11.518Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChangeStatusForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\BMSTU\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\C#\\Labs\\Lab4\\ChangeStatusForm.cs",
+              "RelativeDocumentMoniker": "Lab4\\ChangeStatusForm.cs",
+              "ToolTip": "D:\\BMSTU\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\C#\\Labs\\Lab4\\ChangeStatusForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Lab4\\ChangeStatusForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:45:07.054Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddTaskForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\BMSTU\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\C#\\Labs\\Lab4\\AddTaskForm.cs",
+              "RelativeDocumentMoniker": "Lab4\\AddTaskForm.cs",
+              "ToolTip": "D:\\BMSTU\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\C#\\Labs\\Lab4\\AddTaskForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440] \u2B24",
+              "RelativeToolTip": "Lab4\\AddTaskForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440] \u2B24",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:44:44.793Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             }
           ]
         },
